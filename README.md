@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Junior Developer en formación</strong><br>
-  Aprendiendo desarrollo web, bases de datos y construcción de aplicaciones paso a paso.
+  Aprendiendo desarrollo de aplicaciones, bases de datos y buenas prácticas paso a paso.
 </p>
 
 <p align="center">
@@ -29,11 +29,13 @@ Actualmente estoy construyendo una base para mi portfolio, incorporando proyecto
   <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github" alt="Tecnologias" />
 </p>
 
+También estoy trabajando con **DataFlex Studio 25.0**, desarrollo de aplicaciones y conexión a bases de datos **MySQL/MariaDB**.
 
 ## En qué estoy enfocada
 
 - Aprender buenas prácticas de desarrollo.
 - Crear proyectos simples pero funcionales.
+- Profundizar en desarrollo de aplicaciones.
 - Mejorar el manejo de bases de datos.
 - Preparar este perfil como futuro portfolio profesional.
 
