@@ -37,16 +37,8 @@
   <g transform="translate(72 58)">
     <text x="0" y="24" fill="#7DD3FC" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Florencia Villalonga</text>
     <text x="0" y="78" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="800">Apps + Datos</text>
-    <text x="0" y="118" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Desarrollo de aplicaciones y analisis de datos</text>
+    <text x="0" y="118" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Desarrollo de aplicaciones y BI</text>
     <rect x="0" y="146" width="360" height="7" rx="3.5" fill="url(#accent)"/>
-
-    <g transform="translate(0 178)">
-      <rect width="146" height="34" rx="17" fill="#0F172A" stroke="#22C55E" stroke-opacity="0.7"/>
-      <text x="38" y="23" fill="#DCFCE7" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">Power BI</text>
-
-      <rect x="164" width="108" height="34" rx="17" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.7"/>
-      <text x="200" y="23" fill="#E0F2FE" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">SQL</text>
-    </g>
   </g>
 
   <g transform="translate(690 52)" filter="url(#shadow)">
