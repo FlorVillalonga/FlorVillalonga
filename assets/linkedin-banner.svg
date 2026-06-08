@@ -1,0 +1,67 @@
+<svg width="1584" height="396" viewBox="0 0 1584 396" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1584" y2="396" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.54" stop-color="#0F2A3A"/>
+      <stop offset="1" stop-color="#155E75"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="430" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.55" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#FACC15"/>
+    </linearGradient>
+    <filter id="shadow" x="-12%" y="-18%" width="124%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.42"/>
+    </filter>
+  </defs>
+
+  <rect width="1584" height="396" fill="url(#bg)"/>
+
+  <g opacity="0.12">
+    <path d="M90 50H1494" stroke="#E2E8F0"/>
+    <path d="M90 120H1494" stroke="#E2E8F0"/>
+    <path d="M90 190H1494" stroke="#E2E8F0"/>
+    <path d="M90 260H1494" stroke="#E2E8F0"/>
+    <path d="M90 330H1494" stroke="#E2E8F0"/>
+    <path d="M220 30V366" stroke="#E2E8F0"/>
+    <path d="M450 30V366" stroke="#E2E8F0"/>
+    <path d="M680 30V366" stroke="#E2E8F0"/>
+    <path d="M910 30V366" stroke="#E2E8F0"/>
+    <path d="M1140 30V366" stroke="#E2E8F0"/>
+    <path d="M1370 30V366" stroke="#E2E8F0"/>
+  </g>
+
+  <path d="M980 -40L1610 0V396H850L980 -40Z" fill="#020617" opacity="0.28"/>
+  <path d="M1100 0L1584 0V396H960L1100 0Z" fill="#0891B2" opacity="0.18"/>
+
+  <g transform="translate(360 70)">
+    <text x="0" y="26" fill="#7DD3FC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Florencia Villalonga</text>
+    <text x="0" y="92" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">Apps + Datos</text>
+    <text x="0" y="140" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="500">Desarrollo de aplicaciones y BI</text>
+    <rect x="0" y="172" width="430" height="8" rx="4" fill="url(#accent)"/>
+  </g>
+
+  <g transform="translate(1040 76)" filter="url(#shadow)">
+    <rect width="390" height="216" rx="22" fill="#0B1220" stroke="#334155"/>
+    <rect x="1" y="1" width="388" height="42" rx="21" fill="#111827"/>
+    <circle cx="30" cy="22" r="5.5" fill="#F87171"/>
+    <circle cx="51" cy="22" r="5.5" fill="#FBBF24"/>
+    <circle cx="72" cy="22" r="5.5" fill="#34D399"/>
+
+    <g transform="translate(44 70)">
+      <rect x="0" y="76" width="46" height="34" rx="8" fill="#38BDF8" opacity="0.84"/>
+      <rect x="68" y="42" width="46" height="68" rx="8" fill="#22C55E" opacity="0.84"/>
+      <rect x="136" y="18" width="46" height="92" rx="8" fill="#FACC15" opacity="0.84"/>
+      <rect x="204" y="56" width="46" height="54" rx="8" fill="#A78BFA" opacity="0.84"/>
+      <path d="M4 124H276" stroke="#64748B" stroke-width="2"/>
+      <path d="M20 62C52 28 86 40 118 28C158 12 186 30 234 8" stroke="#7DD3FC" stroke-width="5" stroke-linecap="round"/>
+    </g>
+
+    <g transform="translate(278 82)">
+      <path d="M18 14H80" stroke="#38BDF8" stroke-width="7" stroke-linecap="round"/>
+      <path d="M18 38H98" stroke="#22C55E" stroke-width="7" stroke-linecap="round"/>
+      <path d="M18 62H66" stroke="#FACC15" stroke-width="7" stroke-linecap="round"/>
+      <rect x="16" y="92" width="90" height="8" rx="4" fill="url(#accent)"/>
+    </g>
+  </g>
+</svg>
