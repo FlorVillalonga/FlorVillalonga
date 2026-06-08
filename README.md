@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Desarrolladora Junior | DAM finalizado en 2026</strong><br>
-  Desarrollo de aplicaciones, bases de datos, reporting, automatización de procesos y análisis de negocio.
+  Desarrollo de aplicaciones y análisis de datos, con experiencia en reporting, procesos y automatizaciones.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ Estoy construyendo mi camino profesional poco a poco, combinando proyectos acad�
 
 Además de mi formación técnica, cuento con experiencia previa en el área de **seguros** y **banca-seguros**, junto con una tecnicatura en seguros realizada en Argentina. Ese recorrido me ayudó a desarrollar una mirada analítica, orientada al detalle, a los procesos y a la comprensión de entornos donde la información, la gestión y la toma de decisiones son clave.
 
-Me interesa especialmente el desarrollo de aplicaciones, el trabajo con bases de datos, la automatización de procesos y la creación de herramientas que ayuden a ordenar información, ahorrar tiempo y resolver necesidades reales de negocio.
+Mi foco principal está en el **desarrollo de aplicaciones** y el **análisis de datos**. Me interesa crear herramientas que ayuden a ordenar información, ahorrar tiempo y resolver necesidades reales de negocio, combinando bases de datos, reporting y automatización de procesos.
 
 ## Experiencia práctica
 
@@ -49,7 +49,7 @@ Me interesa especialmente el desarrollo de aplicaciones, el trabajo con bases de
 ## En qué estoy enfocada
 
 - Seguir mejorando como desarrolladora junior.
-- Profundizar en desarrollo de aplicaciones y bases de datos.
+- Profundizar en desarrollo de aplicaciones, bases de datos y análisis de datos.
 - Crear soluciones prácticas para necesidades reales.
 - Automatizar procesos repetitivos mediante integraciones.
 - Unir mi experiencia previa en seguros, análisis y atención al cliente con soluciones tecnológicas útiles.

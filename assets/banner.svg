@@ -1,49 +1,82 @@
 <svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1020"/>
-      <stop offset="0.58" stop-color="#111827"/>
-      <stop offset="1" stop-color="#164E63"/>
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#0F2A3A"/>
+      <stop offset="1" stop-color="#155E75"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="460" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="panel" x1="0" y1="0" x2="520" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102033"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="360" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#22C55E"/>
+      <stop offset="0.55" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#FACC15"/>
     </linearGradient>
-    <filter id="soft" x="-10%" y="-20%" width="120%" height="140%">
-      <feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#020617" flood-opacity="0.3"/>
+    <filter id="shadow" x="-12%" y="-18%" width="124%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.42"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
 
-  <g opacity="0.16">
-    <path d="M0 72H1200" stroke="#E5E7EB"/>
-    <path d="M0 146H1200" stroke="#E5E7EB"/>
-    <path d="M0 220H1200" stroke="#E5E7EB"/>
-    <path d="M160 0V320" stroke="#E5E7EB"/>
-    <path d="M340 0V320" stroke="#E5E7EB"/>
-    <path d="M520 0V320" stroke="#E5E7EB"/>
-    <path d="M700 0V320" stroke="#E5E7EB"/>
-    <path d="M880 0V320" stroke="#E5E7EB"/>
-    <path d="M1060 0V320" stroke="#E5E7EB"/>
+  <g opacity="0.12">
+    <path d="M76 40H1136" stroke="#E2E8F0"/>
+    <path d="M76 98H1136" stroke="#E2E8F0"/>
+    <path d="M76 156H1136" stroke="#E2E8F0"/>
+    <path d="M76 214H1136" stroke="#E2E8F0"/>
+    <path d="M76 272H1136" stroke="#E2E8F0"/>
+    <path d="M172 24V296" stroke="#E2E8F0"/>
+    <path d="M356 24V296" stroke="#E2E8F0"/>
+    <path d="M540 24V296" stroke="#E2E8F0"/>
+    <path d="M724 24V296" stroke="#E2E8F0"/>
+    <path d="M908 24V296" stroke="#E2E8F0"/>
+    <path d="M1092 24V296" stroke="#E2E8F0"/>
   </g>
 
-  <g transform="translate(82 58)" filter="url(#soft)">
-    <rect width="560" height="204" rx="18" fill="#0F172A" stroke="#334155"/>
-    <rect x="1" y="1" width="558" height="46" rx="17" fill="#111827"/>
-    <circle cx="30" cy="24" r="6" fill="#F87171"/>
-    <circle cx="52" cy="24" r="6" fill="#FBBF24"/>
-    <circle cx="74" cy="24" r="6" fill="#34D399"/>
-    <text x="32" y="90" fill="#94A3B8" font-family="Consolas, monospace" font-size="22">class FlorenciaVillalonga</text>
-    <text x="32" y="128" fill="#E5E7EB" font-family="Consolas, monospace" font-size="30" font-weight="700">Junior Developer</text>
-    <text x="32" y="166" fill="#38BDF8" font-family="Consolas, monospace" font-size="22">focus: desarrollo de aplicaciones</text>
+  <path d="M740 -28L1220 0V320H640L740 -28Z" fill="#020617" opacity="0.28"/>
+  <path d="M824 0L1200 0V320H724L824 0Z" fill="#0891B2" opacity="0.18"/>
+
+  <g transform="translate(72 58)">
+    <text x="0" y="24" fill="#7DD3FC" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Florencia Villalonga</text>
+    <text x="0" y="78" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="800">Apps + Datos</text>
+    <text x="0" y="118" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Desarrollo de aplicaciones y analisis de datos</text>
+    <rect x="0" y="146" width="360" height="7" rx="3.5" fill="url(#accent)"/>
+
+    <g transform="translate(0 178)">
+      <rect width="150" height="34" rx="17" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.55"/>
+      <text x="22" y="23" fill="#E0F2FE" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">DataFlex</text>
+
+      <rect x="166" width="132" height="34" rx="17" fill="#0F172A" stroke="#22C55E" stroke-opacity="0.55"/>
+      <text x="193" y="23" fill="#DCFCE7" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Power BI</text>
+
+      <rect x="314" width="116" height="34" rx="17" fill="#0F172A" stroke="#FACC15" stroke-opacity="0.55"/>
+      <text x="343" y="23" fill="#FEF9C3" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">MySQL</text>
+    </g>
   </g>
 
-  <g transform="translate(760 72)">
-    <rect x="0" y="0" width="300" height="170" rx="18" fill="#020617" fill-opacity="0.62" stroke="#334155"/>
-    <path d="M64 64L34 88L64 112" stroke="#38BDF8" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M236 64L266 88L236 112" stroke="#22C55E" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M176 48L126 126" stroke="#E5E7EB" stroke-width="10" stroke-linecap="round"/>
-    <rect x="64" y="144" width="172" height="6" rx="3" fill="url(#accent)"/>
+  <g transform="translate(664 48)" filter="url(#shadow)">
+    <rect width="422" height="222" rx="22" fill="url(#panel)" stroke="#334155"/>
+    <rect x="1" y="1" width="420" height="42" rx="21" fill="#111827"/>
+    <circle cx="30" cy="22" r="5.5" fill="#F87171"/>
+    <circle cx="51" cy="22" r="5.5" fill="#FBBF24"/>
+    <circle cx="72" cy="22" r="5.5" fill="#34D399"/>
+
+    <g transform="translate(32 70)">
+      <rect x="0" y="78" width="44" height="34" rx="8" fill="#38BDF8" opacity="0.82"/>
+      <rect x="62" y="44" width="44" height="68" rx="8" fill="#22C55E" opacity="0.82"/>
+      <rect x="124" y="20" width="44" height="92" rx="8" fill="#FACC15" opacity="0.82"/>
+      <rect x="186" y="58" width="44" height="54" rx="8" fill="#A78BFA" opacity="0.82"/>
+      <path d="M4 126H250" stroke="#64748B" stroke-width="2"/>
+      <path d="M18 64C48 30 82 42 112 30C152 14 176 32 218 10" stroke="#7DD3FC" stroke-width="5" stroke-linecap="round"/>
+    </g>
+
+    <g transform="translate(300 82)">
+      <path d="M34 18L6 42L34 66" stroke="#38BDF8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M78 18L106 42L78 66" stroke="#22C55E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M66 6L44 78" stroke="#E2E8F0" stroke-width="8" stroke-linecap="round"/>
+      <rect x="4" y="100" width="106" height="8" rx="4" fill="url(#accent)"/>
+    </g>
   </g>
 </svg>
