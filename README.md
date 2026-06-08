@@ -60,7 +60,7 @@ Me interesa especialmente el desarrollo de aplicaciones, el trabajo con bases de
 | Proyecto | Descripción | Estado |
 | --- | --- | --- |
 | [FutbolWebApp](https://github.com/FlorVillalonga/FutbolWebApp) | Aplicación web en DataFlex conectada a MySQL/MariaDB. | Finalizado |
-| [Practicas.DataControl](https://github.com/FlorVillalonga/Practicas.DataControl) | Prácticas y ejercicios de aprendizaje. | En práctica |
+| [Practicas.DataControl](https://github.com/FlorVillalonga/Practicas.DataControl) | Prácticas finalizadas centradas en Moodle y DataFlex. | Finalizado |
 
 ## Próximamente
 
