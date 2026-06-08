@@ -16,6 +16,18 @@
   <img src="https://img.shields.io/badge/Portfolio-Pr%C3%B3ximamente-0F172A?style=for-the-badge" alt="Portfolio proximamente" />
 </p>
 
+<p align="center">
+  <a href="./assets/cv-florencia-villalonga.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20CV%20online-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Ver CV online" />
+  </a>
+  <a href="./assets/cv-florencia-villalonga.pdf" download>
+    <img src="https://img.shields.io/badge/Descargar%20CV-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" />
+  </a>
+  <a href="mailto:florenciavillalonga@gmail.com">
+    <img src="https://img.shields.io/badge/Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contactame" />
+  </a>
+</p>
+
 ---
 
 ## Sobre mí
