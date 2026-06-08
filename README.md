@@ -6,12 +6,13 @@
 
 <p align="center">
   <strong>Desarrolladora Junior | DAM finalizado en 2026</strong><br>
-  Desarrollo de aplicaciones, bases de datos, reporting y automatización de procesos.
+  Desarrollo de aplicaciones, bases de datos, reporting, automatización de procesos y análisis de negocio.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DAM-Finalizado%202026-155E75?style=for-the-badge" alt="DAM finalizado 2026" />
   <img src="https://img.shields.io/badge/Perfil-Junior-F97316?style=for-the-badge" alt="Perfil junior" />
+  <img src="https://img.shields.io/badge/Seguros%20%26%20Banca-Experiencia-334155?style=for-the-badge" alt="Experiencia en seguros y banca" />
   <img src="https://img.shields.io/badge/Portfolio-Pr%C3%B3ximamente-0F172A?style=for-the-badge" alt="Portfolio proximamente" />
 </p>
 
@@ -23,7 +24,9 @@ Soy desarrolladora junior y este año finalicé mis estudios de **Desarrollo de 
 
 Estoy construyendo mi camino profesional poco a poco, combinando proyectos académicos, aprendizaje constante y experiencias freelance. No me considero una persona con una gran trayectoria todavía, pero sí con muchas ganas de seguir creciendo, entender bien cada necesidad y adaptarme a cada cliente para buscar soluciones útiles, optimizadas y personalizadas.
 
-Me interesa especialmente el desarrollo de aplicaciones, el trabajo con bases de datos, la automatización de procesos y la creación de herramientas que ayuden a ordenar información y ahorrar tiempo.
+Además de mi formación técnica, cuento con experiencia previa en el área de **seguros** y **banca-seguros**, junto con una tecnicatura en seguros realizada en Argentina. Ese recorrido me ayudó a desarrollar una mirada analítica, orientada al detalle, a los procesos y a la comprensión de entornos donde la información, la gestión y la toma de decisiones son clave.
+
+Me interesa especialmente el desarrollo de aplicaciones, el trabajo con bases de datos, la automatización de procesos y la creación de herramientas que ayuden a ordenar información, ahorrar tiempo y resolver necesidades reales de negocio.
 
 ## Experiencia práctica
 
@@ -31,6 +34,7 @@ Me interesa especialmente el desarrollo de aplicaciones, el trabajo con bases de
 - Automatización de flujos de **WhatsApp integrados con CRM**, adaptados a procesos concretos de negocio.
 - Integraciones con **Wasapi** para clínicas dentales, conectando la comunicación por WhatsApp con la gestión comercial y operativa.
 - Automatizaciones con Wasapi para empresas vinculadas a la venta e instalación de centros de recarga para vehículos eléctricos.
+- Experiencia laboral en **seguros** y **banca-seguros**, trabajando en entornos donde el análisis, la precisión y la comprensión del cliente son fundamentales.
 - Trabajo freelance enfocado en escuchar el problema, entender el flujo real del cliente y proponer una solución sencilla, mantenible y lo más eficiente posible.
 
 ## Tecnologías que estoy practicando
@@ -48,6 +52,7 @@ Me interesa especialmente el desarrollo de aplicaciones, el trabajo con bases de
 - Profundizar en desarrollo de aplicaciones y bases de datos.
 - Crear soluciones prácticas para necesidades reales.
 - Automatizar procesos repetitivos mediante integraciones.
+- Unir mi experiencia previa en seguros, análisis y atención al cliente con soluciones tecnológicas útiles.
 - Preparar este perfil como portfolio profesional.
 
 ## Proyectos
