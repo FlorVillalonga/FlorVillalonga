@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Banner Florencia Villalonga - Junior Developer" width="100%" />
+  <img src="./assets/banner-powerbi-sql.svg" alt="Banner Florencia Villalonga - Power BI y SQL" width="100%" />
 </p>
 
 <h1 align="center">Florencia Villalonga</h1>
