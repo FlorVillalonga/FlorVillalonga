@@ -45,14 +45,14 @@
     <rect x="0" y="146" width="360" height="7" rx="3.5" fill="url(#accent)"/>
 
     <g transform="translate(0 178)">
-      <rect width="150" height="34" rx="17" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.55"/>
-      <text x="22" y="23" fill="#E0F2FE" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">DataFlex</text>
+      <rect width="120" height="34" rx="17" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.55"/>
+      <text x="32" y="23" fill="#E0F2FE" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">SQL</text>
 
-      <rect x="166" width="132" height="34" rx="17" fill="#0F172A" stroke="#22C55E" stroke-opacity="0.55"/>
-      <text x="193" y="23" fill="#DCFCE7" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Power BI</text>
+      <rect x="138" width="132" height="34" rx="17" fill="#0F172A" stroke="#22C55E" stroke-opacity="0.55"/>
+      <text x="165" y="23" fill="#DCFCE7" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Power BI</text>
 
-      <rect x="314" width="116" height="34" rx="17" fill="#0F172A" stroke="#FACC15" stroke-opacity="0.55"/>
-      <text x="343" y="23" fill="#FEF9C3" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">MySQL</text>
+      <rect x="288" width="128" height="34" rx="17" fill="#0F172A" stroke="#FACC15" stroke-opacity="0.55"/>
+      <text x="323" y="23" fill="#FEF9C3" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Datos</text>
     </g>
   </g>
 
