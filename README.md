@@ -23,6 +23,9 @@
   <a href="./assets/cv-florencia-villalonga.pdf" download>
     <img src="https://img.shields.io/badge/Descargar%20CV-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" />
   </a>
+  <a href="./assets/cv-florencia-villalonga-english.pptx" download>
+    <img src="https://img.shields.io/badge/CV%20in%20English-2563EB?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Download CV in English" />
+  </a>
   <a href="mailto:florenciavillalonga@gmail.com">
     <img src="https://img.shields.io/badge/Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contactame" />
   </a>
